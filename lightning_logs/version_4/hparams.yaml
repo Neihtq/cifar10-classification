@@ -1,7 +1,2 @@
-1_hidden: 1024
-2_hidden: 512
-3_hidden: 256
-4_hidden: 128
-5_hidden: 64
 batch_size: 64
 learning_rate: 0.001

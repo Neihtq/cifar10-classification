@@ -1,1 +1,8 @@
 data/
+.ipynb_checkpoints/
+hooks/
+info/
+lightning_logs/
+objects/
+refs/
+runs/
